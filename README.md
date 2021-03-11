@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Feast It Front-End challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey! 👋
 
-## Available Scripts
+This open-ended challenge is your chance to show us your experience with React. We recommend spending about 2-3 hours on the challenge, however, we don’t expect you to have completed every piece of functionality. We will use the outcome of the challenge to discuss your React experience and chat about what further improvements can be made to the app.
 
-In the project directory, you can run:
+### The brief
 
-### `yarn start`
+Develop a React web app that maintains a list of bookmarks. A user should be able to add, edit, or remove any bookmark on the list.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+You are free to lay it out as you think best, either with an inline form or separate pages for displaying and adding bookmarks, also consider the design and user-experience of the app as this will be part of our review.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Setup
 
-### `yarn test`
+1. Clone this repository
+   - This repository uses [Create React App](https://create-react-app.dev/docs/getting-started)
+2. Run `yarn` or `npm install`
+3. Run `yarn start` or `npm start`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Requirements
 
-### `yarn build`
+- The user should be able to add, edit and delete the bookmarks
+- The form must validate that the input is a valid URL and display appropriate error messages
+- Bookmarks must persist page reload (use LocalStorage)
+- The UI should be styled using [Emotion](https://emotion.sh/docs/styled) which is include in the project for you, check out [this example component](src/components/Header)
+- Commit regularly with well-formed commit messages, we use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
+- When finished, deploy the app to [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/) or similar
+- Write a brief summary in the [CHALLENGE_NOTES](CHALLENGE_NOTES.md) about your process, your choices, and any challenges you faced
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tips
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Be creative 🎨
+- Add some tests, check out [this example](src/components/Header/Header.test.js)
+- Use [Typescript](https://create-react-app.dev/docs/adding-typescript) if preferred
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### How to submit
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Make your repository private and add [@stevengeorgeharris](https://github.com/stevengeorgeharris) as a collaborator
+- You can also zip the repository and [send it to](mailto:steven@feast-it.com).
