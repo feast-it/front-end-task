@@ -8,7 +8,7 @@ This open-ended challenge is your chance to show us your experience with React. 
 
 Develop a React web app that maintains a list of bookmarks. A user should be able to add, edit or remove any bookmark on the list.
 
-You are free to design it as you think best, either with an inline form or separate pages for displaying and adding bookmarks. Please also consider the design and user experience of the app as this will be part of our review.
+You are free to design it as you think best, either with an inline form or separate pages for displaying and adding bookmarks. Please also consider the user experience of the app as this will be part of our review.
 
 ### Setup
 
