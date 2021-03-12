@@ -6,9 +6,9 @@ This open-ended challenge is your chance to show us your experience with React. 
 
 ### The brief
 
-Develop a React web app that maintains a list of bookmarks. A user should be able to add, edit, or remove any bookmark on the list.
+Develop a React web app that maintains a list of bookmarks. A user should be able to add, edit or remove any bookmark on the list.
 
-You are free to lay it out as you think best, either with an inline form or separate pages for displaying and adding bookmarks, also consider the design and user-experience of the app as this will be part of our review.
+You are free to design it as you think best, either with an inline form or separate pages for displaying and adding bookmarks. Please also consider the design and user experience of the app as this will be part of our review.
 
 ### Setup
 
@@ -22,16 +22,16 @@ You are free to lay it out as you think best, either with an inline form or sepa
 - The user should be able to add, edit and delete the bookmarks
 - The form must validate that the input is a valid URL and display appropriate error messages
 - Bookmarks must persist page reload (use LocalStorage)
-- The UI should be styled using [Emotion](https://emotion.sh/docs/styled) which is include in the project for you, check out [this example component](src/components/Header)
-- Commit regularly with well-formed commit messages, we use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
+- The UI should be styled using [Emotion](https://emotion.sh/docs/styled) which is included in the project for you. Check out [this example component](src/components/Header)
+- Commit regularly with well-formed commit messages. We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
 - When finished, deploy the app to [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/) or similar
 - Write a brief summary in the [CHALLENGE_NOTES](CHALLENGE_NOTES.md) about your process, your choices, and any challenges you faced
 
 ### Tips
 
-- Add some tests, check out [this example](src/components/Header/Header.test.js)
+- Add some tests. Check out [this example](src/components/Header/Header.test.js)
 - Use [Typescript](https://create-react-app.dev/docs/adding-typescript) if preferred
-- Be creative e.g. animations, design
+- Be creative e.g. animations. We use [Framer Motion](https://www.framer.com/api/motion/)
 
 ### How to submit
 
