@@ -2,7 +2,7 @@
 
 Hey! 👋
 
-This open-ended challenge is your chance to show us your experience with React. We recommend spending about 2-3 hours on the challenge, however, we don’t expect you to have completed every piece of functionality. We will use the outcome of the challenge to discuss your React experience and chat about what further improvements can be made to the app.
+This open-ended challenge is your chance to show us your experience with React. We recommend spending about 2-3 hours on the challenge, however, we don’t expect you to have completed every piece of functionality. We will use the outcome of the challenge as part of our evaluation process.
 
 ### The brief
 
@@ -29,11 +29,11 @@ You are free to lay it out as you think best, either with an inline form or sepa
 
 ### Tips
 
-- Be creative 🎨
 - Add some tests, check out [this example](src/components/Header/Header.test.js)
 - Use [Typescript](https://create-react-app.dev/docs/adding-typescript) if preferred
+- Be creative e.g. animations, design
 
 ### How to submit
 
-- Make your repository private and add [@stevengeorgeharris](https://github.com/stevengeorgeharris) as a collaborator
-- You can also zip the repository and [send it to](mailto:steven@feast-it.com).
+- Push your code to your own private repository and add [@stevengeorgeharris](https://github.com/stevengeorgeharris) as a collaborator
+- You can also zip the repository and [send it to us](mailto:steven@feast-it.com)
