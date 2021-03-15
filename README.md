@@ -1,4 +1,4 @@
-# Feast It Front-End challenge
+# Feast It Front-End Challenge
 
 Hey! 👋
 
